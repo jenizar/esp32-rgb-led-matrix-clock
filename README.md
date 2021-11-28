@@ -9,7 +9,9 @@ note:
 
 this program is a modified program for arduino mega 2560 modified for esp32 board.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/esp32-rgb-led-matrix-clock/blob/main/screenshot/ss1.jpg)
+
+![alt text](https://github.com/jenizar/esp32-rgb-led-matrix-clock/blob/main/screenshot/ss2.jpg)
 
 attention:
 
