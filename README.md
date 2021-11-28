@@ -48,8 +48,8 @@ RGBmatrixPanel matrix(A, B, C, D, CLK, LAT, OE, false, 64);
 
 references:
 
-https://arduino-projects-free.blogspot.com/2018/09/rgb-led-matrix-clock-with-arduino.html
+1. https://arduino-projects-free.blogspot.com/2018/09/rgb-led-matrix-clock-with-arduino.html
 
-
+2. https://www.instagram.com/p/CW0sy41hWbG/
 
 
