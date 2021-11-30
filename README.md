@@ -13,6 +13,8 @@ this program is a modified program for arduino mega 2560 modified for esp32 boar
 
 ![alt text](https://github.com/jenizar/esp32-rgb-led-matrix-clock/blob/main/screenshot/ss2.jpg)
 
+![alt text](https://github.com/jenizar/esp32-rgb-led-matrix-clock/blob/main/screenshot/wiring.jpg)
+
 attention:
 
 please see file RGBmatrixPanel.cpp in the library RGB_matrix_panel, edit this line for esp32.
